@@ -1,0 +1,23 @@
+server:
+  port: 7111
+
+spring:
+
+  servlet:
+
+
+
+
+
+
+
+
+
+
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+
+
+
